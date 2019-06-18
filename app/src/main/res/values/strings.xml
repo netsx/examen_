@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="next">Next</string>
+    <string name="skip">After</string>
+    <string name="start">Start</string>
+    <string name="Registarte">¡REGISTRATE!</string>
+    <string name="enonunce">AL registrate podrás obrener grandes beneficios desde la palma de tu mano ¡ en un solo click!</string>
+    <string name="jump">Saltar</string>
+    <string name="datos" />
+    <string name="datos_vehiculo">Datos del vehiculo</string>
+    <string name="cancel">Cancelar</string>
+    <string name="accept">Aceptar</string>
+    <string name="title">Title</string>
+    <string name="result">Result</string>
+</resources>
